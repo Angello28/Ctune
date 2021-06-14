@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869837847468",
+    "project_id": "ctune-b6ee7",
+    "storage_bucket": "ctune-b6ee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869837847468:android:441c735a32c74dba86d809",
+        "android_client_info": {
+          "package_name": "com.example.ctunes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869837847468-qki5b5vb3eqn5vl7c557r1or316aqese.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeEORXKrZ6EU5xxmp1Hh-tAvY87SES5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869837847468-qki5b5vb3eqn5vl7c557r1or316aqese.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
